@@ -1,0 +1,5 @@
+Note: To access the admin page just go to this page http://localhost/shop/admin/login.php
+Admin Login Details
+Username: manza
+Password: 321
+
